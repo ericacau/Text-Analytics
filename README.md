@@ -1,7 +1,7 @@
 # Text Analytics
  Text Analytics project repository
- 
- Dataset: https://www.kaggle.com/datasets/meetnaren/goodreads-best-books
+
+ We classified the genres of books from the GoodReads dataset, following their summary: https://www.kaggle.com/datasets/meetnaren/goodreads-best-books
  
  * EDA
  * Baseline 
